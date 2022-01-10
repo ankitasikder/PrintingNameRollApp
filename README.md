@@ -16,25 +16,26 @@
 
 <div align="justified">
 
+This is an android app which takes name, roll no., section, enrolment no. from user and prints them in another page. I have made this using java. I have created two java files for two actvities and two xml files to design them. It is a basic app for practicing the basic of android development.
+      
 </div>
-
-## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
 
 ## Folder Structure :point_down:
 ```bash
-lbtokg-app
+PrintingNameRollApp
       └── app
            └── src
                 └── main
                       ├── AndroidManifest.xml
-                      └── java/com/example/braintrainer
-                                     └── MainActivity.java 
+                      └── java/com/example/printingnamerollapp
+                                     ├── MainActivity.java
+                                     └── MainActivity2.java 
  ```             
-## Screenshots of NCS :point_down: 
+## Screenshots of this app :point_down: 
 
 <div align="center">
  
-<a href="pics/lb1.jpeg"><img src="pics/lb1.jpeg" width="250" height= "400"></a> <a href="pics/lb2.jpeg"><img src="pics/lb2.jpeg" width="250" height= "400"></a> <a href="pics/lb3.jpeg"><img src="pics/lb3.jpeg" width="250" height= "400"></a>
+<a href="pics/n1.jpeg"><img src="pics/n1.jpeg" width="250" height= "400"></a> <a href="pics/n2.jpeg"><img src="pics/n2.jpeg" width="250" height= "400"></a> <a href="pics/n3.jpeg"><img src="pics/n3.jpeg" width="250" height= "400"></a>
 
 
 
